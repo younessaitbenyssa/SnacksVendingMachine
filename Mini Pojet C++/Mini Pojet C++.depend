@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1714938044 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\main.cpp
+	<iostream>
+	"classes.h"
+
+1714906513 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\definition.cpp
+	"classes.h"
+
+1714112562 c:\users\dell\desktop\c practice\youness\mini pojet c++\classes.h
+	"Slot.h"
+	"coinslot.h"
+	"keypad.h"
+	"dropcheck.h"
+	"wideslot.h"
+	"smallslot.h"
+
+1714938437 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\coinslot.cpp
+	"coinslot.h"
+
+1714110034 c:\users\dell\desktop\c practice\youness\mini pojet c++\coinslot.h
+	<bits/stdc++.h>
+
+1714108819 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\dropcheck.cpp
+	"dropcheck.h"
+
+1714110034 c:\users\dell\desktop\c practice\youness\mini pojet c++\dropcheck.h
+	<bits/stdc++.h>
+
+1714906511 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\keypad.cpp
+	"keypad.h"
+
+1714110360 c:\users\dell\desktop\c practice\youness\mini pojet c++\keypad.h
+	<bits/stdc++.h>
+
+1714110034 c:\users\dell\desktop\c practice\youness\mini pojet c++\slot.h
+	"motor.h"
+
+1714108819 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\moteur.cpp
+	"motor.h"
+
+1714110034 c:\users\dell\desktop\c practice\youness\mini pojet c++\motor.h
+	<bits/stdc++.h>
+
+1714903754 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\slot.cpp
+	"Slot.h"
+
+1714110294 c:\users\dell\desktop\c practice\youness\mini pojet c++\wideslot.h
+	"Slot.h"
+
+1714110310 c:\users\dell\desktop\c practice\youness\mini pojet c++\smallslot.h
+	"Slot.h"
+
+1714108819 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\wideslot.cpp
+	"wideslot.h"
+
+1714108819 source:c:\users\dell\desktop\c practice\youness\mini pojet c++\smallslot.cpp
+	"smallslot.h"
+

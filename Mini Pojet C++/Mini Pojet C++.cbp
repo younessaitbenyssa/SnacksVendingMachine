@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Mini Pojet C++" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Mini Pojet C++" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Mini Pojet C++" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Slot.h" />
+		<Unit filename="classes.h" />
+		<Unit filename="coinslot.cpp" />
+		<Unit filename="coinslot.h" />
+		<Unit filename="definition.cpp" />
+		<Unit filename="dropcheck.cpp" />
+		<Unit filename="dropcheck.h" />
+		<Unit filename="keypad.cpp" />
+		<Unit filename="keypad.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="moteur.cpp" />
+		<Unit filename="motor.h" />
+		<Unit filename="slot.cpp" />
+		<Unit filename="smallslot.cpp" />
+		<Unit filename="smallslot.h" />
+		<Unit filename="wideslot.cpp" />
+		<Unit filename="wideslot.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
